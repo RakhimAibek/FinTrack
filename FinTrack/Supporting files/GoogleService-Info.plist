@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>441460719957-qk5dp3jpq4se6mcani5sofkv496cg4u0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.441460719957-qk5dp3jpq4se6mcani5sofkv496cg4u0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB_fztsMiWSTsVQLKDRZEEqgc7v20MlwMQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>441460719957</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>moon.apps.FinTrack</string>
+	<key>PROJECT_ID</key>
+	<string>fintrack-1fddb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fintrack-1fddb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:441460719957:ios:fdd308e6cd7dc46f</string>
+	<key>DATABASE_URL</key>
+	<string>https://fintrack-1fddb.firebaseio.com</string>
+</dict>
+</plist>
